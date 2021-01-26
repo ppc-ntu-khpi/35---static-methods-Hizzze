@@ -9,5 +9,3 @@
 
 ![image_2021-01-26_13-34-44](https://user-images.githubusercontent.com/75045730/105842224-885b5f00-5fde-11eb-82d5-22248f150e2f.png)
 ![image_2021-01-26_13-35-20](https://user-images.githubusercontent.com/75045730/105842226-88f3f580-5fde-11eb-9637-3b8bb38e3cac.png)
-![ONE](https://user-images.githubusercontent.com/75045730/105842227-88f3f580-5fde-11eb-8935-69eba8161fb2.png)
-![TWO](https://user-images.githubusercontent.com/75045730/105842230-88f3f580-5fde-11eb-97f0-46f02d59a817.png)
